@@ -1,2 +1,2 @@
 # lockableStorageBox
-Záverečný projekt k predmetu Internet vecí.
+Uzamykateľný úložný box: záverečný projekt k predmetu Internet vecí.
