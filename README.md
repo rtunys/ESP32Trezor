@@ -1,2 +1,2 @@
-# lockableStorageBox
-Uzamykateľný úložný box: záverečný projekt k predmetu Internet vecí.
+# ESP32 Web Server: Trezor so servom
+Uzamykateľný trezor: záverečný projekt k predmetu Internet vecí.
